@@ -11,9 +11,8 @@
 >
 > Sample Blog
 
-This is a sample homepage for your [`coding.blog`](https://coding.blog). You can use
-it to showcase your latest / most-important blog posts (or whatever suites your case).
-You can modify its content by editting `posts/index.md`.
+This is a sample homepage for [`coding.blog`](https://coding.blog) blogs. You
+can see its code [here](https://github.com/loreanecomply/coding-blog-sample/blob/master/posts/index.md).
 
 ---
 

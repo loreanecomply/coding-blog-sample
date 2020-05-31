@@ -26,8 +26,8 @@
 
 <br>
 
-So this is the content of this sample blog post. For a new blogpost, just copy the contents of \
-`posts/sample-blog-post.md` and get started quickly!
+So this is the content of this sample blog post. You can check out its code
+[here](https://github.com/loreanecomply/coding-blog-sample/blob/master/posts/sample-blog-post.md).
 
 ---
 
